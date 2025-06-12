@@ -1,0 +1,4 @@
+En el análisis esperado para la herramienta de evaluación docente, se visualiza varios parámetros.
+	Información Docente: Nombre completo, Materias que dicta, información básica del docente, certificados y títulos, experiencia.
+	Información de la evolución de los usuarios: En esto se busca guardar las respuestas para poder visualizarla.
+	Información formulario: Se realizan las preguntas junto a las opciones de respuesta, intervalo, abierta, etc.  
