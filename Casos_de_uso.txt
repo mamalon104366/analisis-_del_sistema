@@ -1,0 +1,7 @@
+Actor principal: Usuario
+- Descripción: El usuario puede enviar una solicitud para instalar un servicio de internet.
+- Flujo principal:
+  1. El usuario accede al formulario de solicitud.
+  2. Selecciona el tipo de servicio y ubicación.
+  3. Envía la solicitud.
+  4. El sistema la guarda y notifica al administrador.
