@@ -1,0 +1,20 @@
+1. Registro y gestión de usuarios (docentes y administradores)
+Descripción: La plataforma debe permitir el registro, inicio de sesión y gestión de perfiles para docentes y administradores.
+Criterios de aceptación:
+Los docentes pueden editar su perfil y ver sus evaluaciones.
+Los administradores pueden crear, editar o eliminar cuentas de usuario.
+Se implementa control de acceso según el rol.
+
+2. Creación y aplicación de instrumentos de evaluación
+Descripción: El sistema debe permitir diseñar, personalizar y aplicar formularios de evaluación 
+Criterios de aceptación:
+Formularios con preguntas de distintos tipos (escala Likert, selección múltiple, respuestas abiertas).
+Posibilidad de asignar instrumentos a docentes y períodos específicos.
+Evaluadores pueden enviar evaluaciones desde sus cuentas.
+
+3. Generación de reportes y retroalimentación automática
+Descripción: e-VALuacion debe generar informes individuales y globales con resultados gráficos y recomendaciones.
+Criterios de aceptación:
+Se pueden descargar reportes en PDF o Excel.
+Retroalimentación personalizada basada en los resultados.
+Historial de evaluaciones por docente.
